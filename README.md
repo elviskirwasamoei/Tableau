@@ -21,6 +21,8 @@ The dataset contains sales records including:
 - Data segmentation
 
   **(2) Set1 Dashboard**
+<img width="826" height="572" alt="Set1" src="https://github.com/user-attachments/assets/15bc5385-aa8a-4125-9026-c839e8412130" />
+
   
   ## Overview
 This project analyzes dataset1 capstone project data using Tableau.
