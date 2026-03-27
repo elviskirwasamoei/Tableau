@@ -2,14 +2,10 @@
 
 <img width="830" height="580" alt="Clusters1" src="https://github.com/user-attachments/assets/f0e3172c-2bd3-4b37-9f70-c2ccce08de5e" />
 
+**Overview** 
+Cluster1 typically represents countries with similar socio-economic patterns.
 
-## Overview
-This project analyzes Country data using Tableau.
-
-## Tools Used
-- Tableau
-- Excel
-- Data Visualization
+The goal is to uncover patterns, trends, and insights that can support data-driven decision-making in economic planning, development, and investment.
 
 ## Dataset
 The dataset contains sales records including:
@@ -19,10 +15,28 @@ The dataset contains sales records including:
 - Economy
 - Economic ineqiality
 
+
+
 ## Dashboard Insights
-- Clusters of Economic vs Economic inequality of  different countries to identify groups with almost similar behaviour
-- Data segmentation
-- 
+
+ **Economic Trends**
+ 
+Cluster1 countries show steady GDP growth
+Economies are transitioning toward industrialization and service expansion
+
+**Demographics**
+
+Large and youthful populations
+Increasing urbanization and workforce expansion
+
+
+
+
+
+
+
+
+  
  **2Set1 Dashboard**
   
 <img width="826" height="572" alt="Set1" src="https://github.com/user-attachments/assets/15bc5385-aa8a-4125-9026-c839e8412130" />
