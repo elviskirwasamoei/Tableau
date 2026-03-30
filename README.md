@@ -85,8 +85,35 @@ From this setup, you can easily identify:
 
 1. Regional Performance Focus
 Only South, Southeast, West are analyzed
-👉 Likely these are:
+ Likely these are:
 Top-performing regions
 Or regions of business interest
+
+2. Geographic Drill-down
+You can trace:
+Region → State → City performance
+
+ Helps in:
+
+Market expansion decisions
+Identifying strong/weak cities
+
+3. Sales Concentration
+Since grouped by City:
+You can spot high-performing cities
+Detect sales imbalance across states
+
+
+** Summary**
+
+
+Region-focused sales analysis view
+Filters data to South, Southeast, and West
+Breaks down performance by:
+State → City
+Measures:
+Total Sales
+
+ It’s ideal for regional performance comparison and geographic insights, but can be enhanced with more metrics and time-based analysis.
 
   
