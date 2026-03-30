@@ -73,7 +73,20 @@ The dataset contains sales records including:
 This visualization answers:
 
 Which cities generate the most sales in selected regions?
+
 How do states compare within each region?
+
 Which region dominates in sales performance (among the selected three)?
+
+
+**Insights**
+
+From this setup, you can easily identify:
+
+1. Regional Performance Focus
+Only South, Southeast, West are analyzed
+👉 Likely these are:
+Top-performing regions
+Or regions of business interest
 
   
