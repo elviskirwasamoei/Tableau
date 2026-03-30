@@ -104,7 +104,7 @@ You can spot high-performing cities
 Detect sales imbalance across states
 
 
-** Summary**
+**Summary**
 
 
 Region-focused sales analysis view
