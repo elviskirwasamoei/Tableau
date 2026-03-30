@@ -56,4 +56,15 @@ The dataset contains sales records including:
 - Country
   ## Dashboard Insights
   Sets of ID NO(fixed,unfixed,combined) to analyze and compare relationship in the Total score of the dataset1
+
+
+
+
+
+
+  **CustomFilter(1) Dashboard**
+ is a worksheet-level filtered view built on the Adidas dataset. It focuses on analyzing Total Sales across geographic levels (Region → State → City).
+
+  <img width="823" height="577" alt="Screenshot 2026-03-30 092831" src="https://github.com/user-attachments/assets/5229e4dc-c035-49d2-b2f0-a2ce679ca66c" />
+
   
