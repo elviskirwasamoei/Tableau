@@ -226,10 +226,6 @@ This dashboard visualizes employee age distribution using a horizontal bar chart
   
 - The workforce shows a balanced age distribution across experience levels
 
-### Observations:
-- The use of SUM(Age) may misrepresent actual age values; AVG(Age) is recommended
-  
-- DataSource Filter (2) limits the dataset to a subset of employees, making insights context-specific
 
 ### Business Value:
 
