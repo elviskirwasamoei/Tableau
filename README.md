@@ -124,6 +124,10 @@ Total Sales
  
  This analysis focuses employee segements based on key conditions such as salary, business unit, and department.
 
+
+ <img width="828" height="582" alt="Screenshot 2026-04-01 143912" src="https://github.com/user-attachments/assets/79128f41-24b0-42e0-aeaa-a31612fba380" />
+
+
 **Key Findings**:
 
 High-value employees are concentrated in technical and managerial roles.
@@ -133,6 +137,9 @@ Junior staff dominate operational departments.
 Salary distribution is uneven across departments.
 
 Some experienced employees fall outside high-value categories, indicating potential underutilization.
+
+
+
 
  
 
