@@ -121,11 +121,58 @@ Total Sales
  
  
  **CustomFilter(2) Dashboard**
+
+ 
  
  This analysis focuses on employee segements based on key conditions such as salary, business unit, and department.
 
 
 <img width="834" height="578" alt="Screenshot 2026-04-01 150258" src="https://github.com/user-attachments/assets/9314c2a9-f0ee-4283-a973-758423c10406" />
+
+
+
+
+  **Key insights**
+
+
+**Salary Distribution Patterns**
+
+High salary groups are often concentrated in:
+
+            IT
+            
+            Finance
+            
+            Management roles
+
+Lower salary segments may dominate:
+
+           Entry-level roles
+           
+           Operational departments
+
+
+**Department-Level Trends**
+
+
+   Some departments may:
+
+            Have more junior employees
+            
+            Show salary imbalance
+            
+            Experience high turnover risk
+
+ **Hidden Risks Identified**
+
+Custom Filter (2) often reveals:
+
+       Underpaid experienced employees
+       
+       Overloaded departments
+       
+       Skill imbalance across teams
+
 
 
 
