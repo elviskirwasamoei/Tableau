@@ -116,4 +116,31 @@ Total Sales
 
  It’s ideal for regional performance comparison and geographic insights, but can be enhanced with more metrics and time-based analysis.
 
+ 
+ 
+ 
+ 
+ **CustomFilter(2) Dashboard**
+ 
+ This analysis focuses employee segements based on key conditions such as salary, business unit, and department.
+
+**Key Findings**:
+
+High-value employees are concentrated in technical and managerial roles.
+
+Junior staff dominate operational departments.
+
+Salary distribution is uneven across departments.
+
+Some experienced employees fall outside high-value categories, indicating potential underutilization.
+
+ 
+
+
+ 
+
   
+
+
+
+
