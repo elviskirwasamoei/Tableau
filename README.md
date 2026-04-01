@@ -122,10 +122,11 @@ Total Sales
  
  **CustomFilter(2) Dashboard**
  
- This analysis focuses employee segements based on key conditions such as salary, business unit, and department.
+ This analysis focuses on employee segements based on key conditions such as salary, business unit, and department.
 
 
- <img width="828" height="582" alt="Screenshot 2026-04-01 143912" src="https://github.com/user-attachments/assets/79128f41-24b0-42e0-aeaa-a31612fba380" />
+<img width="834" height="578" alt="Screenshot 2026-04-01 150258" src="https://github.com/user-attachments/assets/9314c2a9-f0ee-4283-a973-758423c10406" />
+
 
 
 **Key Findings**:
@@ -136,7 +137,6 @@ Junior staff dominate operational departments.
 
 Salary distribution is uneven across departments.
 
-Some experienced employees fall outside high-value categories, indicating potential underutilization.
 
 
 
