@@ -209,6 +209,39 @@ Salary distribution is uneven across departments.
 
 
 
+**DataSourceFilters2 Dashboard Analysis**
+
+<img width="672" height="580" alt="Screenshot 2026-04-01 155200" src="https://github.com/user-attachments/assets/fc4c9167-7d91-4661-a8d8-580e63134dba" />
+
+
+This dashboard visualizes employee age distribution using a horizontal bar chart filtered at the data source level.
+
+### Key Insights:
+
+- Majority of employees fall within the 30–50 age range
+  
+- A small segment of employees (~60+) represents senior expertise
+  
+- Younger employees (~25–35) indicate ongoing recruitment and growth
+  
+- The workforce shows a balanced age distribution across experience levels
+
+### Observations:
+- The use of SUM(Age) may misrepresent actual age values; AVG(Age) is recommended
+  
+- DataSource Filter (2) limits the dataset to a subset of employees, making insights context-specific
+
+### Business Value:
+
+- Supports workforce planning and succession strategies
+  
+- Helps HR identify experience gaps and hiring needs
+  
+- Improves dashboard performance through data filtering
+
+
+
+
 
  
 
