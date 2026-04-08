@@ -234,14 +234,42 @@ This dashboard visualizes employee age distribution using a horizontal bar chart
 - Helps HR identify experience gaps and hiring needs
   
 - Improves dashboard performance through data filtering
+  
 
 
 
  **MeasureFilter**
 
+ **Overview**
+
+This dashboard analyzes employee data using Tableau Measure Filters to dynamically control metrics such as:
+
+Age
+
+Business Unit
+
+Full Name
+
+
+The goal is to focus on high-impact insights by filtering numerical values (measures) rather than categories.
+
  
 
  <img width="829" height="582" alt="Screenshot 2026-04-02 120509" src="https://github.com/user-attachments/assets/eaa722d6-6f7e-499d-9fc1-612f7ebbe76d" />
+ 
+
+ **Key Dashboard Insights**
+
+ Workforce Distribution Insight
+
+The majority of employees fall within the **30–39 age bracket**, indicating a strong mid-career workforce.
+
+Within this group, the **Sales business unit** has the highest concentration of employees, suggesting that the organization prioritizes revenue-generating functions.
+
+This highlights:
+- A performance-driven workforce structure
+  
+- Heavy reliance on experienced professionals in Sales
 
 
 
