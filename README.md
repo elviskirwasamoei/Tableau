@@ -255,9 +255,8 @@ Full Name
 
 The goal is to focus on high-impact insights by filtering numerical values (measures) rather than categories.
 
- 
+ <img width="834" height="584" alt="Screenshot 2026-04-08 115358" src="https://github.com/user-attachments/assets/5b17ccb9-9c95-4b61-9fbc-85a55197d100" />
 
- <img width="829" height="582" alt="Screenshot 2026-04-02 120509" src="https://github.com/user-attachments/assets/eaa722d6-6f7e-499d-9fc1-612f7ebbe76d" />
  
 
  **Key Dashboard Insights**
