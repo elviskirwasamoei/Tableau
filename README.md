@@ -260,7 +260,7 @@ The goal is to focus on high-impact insights by filtering numerical values (meas
 
  **Key Dashboard Insights**
 
- Workforce Distribution Insight
+ **Workforce Distribution Insight**
 
 The majority of employees fall within the **30–39 age bracket**, indicating a strong mid-career workforce.
 
@@ -270,6 +270,12 @@ This highlights:
 - A performance-driven workforce structure
   
 - Heavy reliance on experienced professionals in Sales
+
+
+
+**Departmental Makeup:** 
+
+Departments like Engineering and IT often show distinct demographic profiles compared to Human Resources or Accounting.
 
 
 
