@@ -278,6 +278,11 @@ This highlights:
 Departments like Engineering and IT often show distinct demographic profiles compared to Human Resources or Accounting.
 
 
+**Youth Concentration** 
+
+Entry-level roles or specific technical departments (like IT) often show a higher density of younger employees (under 30), whereas "Senior Management" tends to be dominated by the 45+ age bracket.
+
+
 
 
 
