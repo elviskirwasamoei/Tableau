@@ -285,6 +285,16 @@ Entry-level roles or specific technical departments (like IT) often show a highe
 
 
 
+**Parameter2 Dashboard**
+
+
+<img width="830" height="576" alt="Screenshot 2026-04-09 105236" src="https://github.com/user-attachments/assets/40b24398-7b40-42f2-ad58-2518b2d945b5" />
+
+
+
+
+
+
 
 
 
