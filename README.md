@@ -288,6 +288,9 @@ Entry-level roles or specific technical departments (like IT) often show a highe
 **Parameter2 Dashboard**
 
 
+This Tableau dashboard uses parameters to dynamically analyze employee performance. Users can adjust metrics and ranking thresholds to identify top performers, analyze distribution patterns, and support data-driven decision-making. The analysis reveals a strong performance gap, highlighting reliance on a few high-performing individuals and opportunities for team-wide optimization.
+
+
 <img width="830" height="576" alt="Screenshot 2026-04-09 105236" src="https://github.com/user-attachments/assets/40b24398-7b40-42f2-ad58-2518b2d945b5" />
 
 
