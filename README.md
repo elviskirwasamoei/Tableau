@@ -294,8 +294,47 @@ This Tableau dashboard uses parameters to dynamically analyze employee performan
 <img width="830" height="576" alt="Screenshot 2026-04-09 105236" src="https://github.com/user-attachments/assets/40b24398-7b40-42f2-ad58-2518b2d945b5" />
 
 
+**Key Insights**
+
+**High Performer Dominance**
+
+The top performer records 246,589, significantly higher than others.
+
+There is a clear performance gap between the top employee and mid-level performers.
 
 
+This suggests performance concentration, where a few employees drive a large share of results.
+
+
+
+**Mid-Tier Clustering**
+
+There is a consistent group of strong contributors, but they still fall short of the top performer.
+
+
+**Low Performer Range**
+
+Some employees fall between 45K – 70K 
+
+This indicates a wide performance disparity, possibly due to:
+
+Experience differences
+
+Region allocation
+
+Product specialization
+
+**Performance Distribution**
+
+The distribution is right-skewed
+
+Few high performers, many average/low performers
+
+ Business implication:
+
+Organization may rely heavily on top talent
+
+Risk if top performers leave
 
 
 
