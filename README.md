@@ -406,7 +406,7 @@ Improved clarity in hierarchical data analysis and better decision-making insigh
 <img width="827" height="579" alt="Screenshot 2026-04-17 151013" src="https://github.com/user-attachments/assets/8b617359-523e-42b3-8c60-dba31359117d" />
 
 
-This parameter allows users to dynamically switch between Sales, country, and segment across the dashboard
+This parameter allows users to Dynamically filter data based on thresholds
 
 **Purpose**
 
