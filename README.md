@@ -338,6 +338,35 @@ Risk if top performers leave
 
 
 
+**Sorting2**
+
+<img width="672" height="510" alt="Screenshot 2026-04-17 095710" src="https://github.com/user-attachments/assets/37e54445-5f75-4dc5-892f-097718b38a6e" />
+
+
+The goal of sorting was to rank products and state by performance i terms of sales, making it easier to identify top and underperforming products.
+
+**Basic Sort (Ascending Order)**
+
+Use case: Ranking sales 
+
+Steps:
+
+Selected dimension ( Product Name)
+
+Clicked sort icon or used sort option
+
+Sorted by SUM(Sales) in ascending order
+
+Insight:
+
+This revealed the top  revenue-generating products, helping prioritize high-performing inventory.
+
+
+
+
+
+
+
 
 
  
