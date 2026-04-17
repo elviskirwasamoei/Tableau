@@ -378,6 +378,32 @@ Insight:
 This revealed the top  revenue-generating products, helping prioritize high-performing inventory.
 
 
+**NestedSort**
+
+Nested sorting in Tableau is a technique used to sort data within hierarchical dimensions (e.g., State → city). This allows better comparison of values within each group rather than applying a global sort.
+
+<img width="820" height="584" alt="Screenshot 2026-04-17 102849" src="https://github.com/user-attachments/assets/729ea917-009f-43c6-bb64-ab9aff8f8b5e" />
+
+
+This project demonstrates how to implement **nested sorting** in Tableau to analyze hierarchical data effectively.
+
+ **Key Objective**
+
+To sort in Ascending order within each State based on total sales, enabling better intra-group comparison.
+
+
+**Key Insight**
+
+Nested sorting revealed that top-performing states across cities, which is not visible with global sorting.
+
+**Outcome**
+
+Improved clarity in hierarchical data analysis and better decision-making insights.
+
+
+
+
+
 
 
 
