@@ -338,7 +338,7 @@ Risk if top performers leave
 
 
 
-**Sorting2**
+**Sorting2 Dashboard**
 
 <img width="672" height="510" alt="Screenshot 2026-04-17 095710" src="https://github.com/user-attachments/assets/37e54445-5f75-4dc5-892f-097718b38a6e" />
 
@@ -357,7 +357,7 @@ Clicked sort icon or used sort option
 Sorted by Producta  in alphabetical order
 
 
-**Sorting3**
+**Sorting3 Dasboard**
 
 <img width="830" height="585" alt="Screenshot 2026-04-17 101044" src="https://github.com/user-attachments/assets/e122f700-6637-4e75-a75c-01fe82856556" />
 
@@ -400,6 +400,31 @@ Nested sorting revealed that top-performing states across cities, which is not v
 
 Improved clarity in hierarchical data analysis and better decision-making insights.
 
+
+**P1 Dashboard**
+
+<img width="827" height="579" alt="Screenshot 2026-04-17 151013" src="https://github.com/user-attachments/assets/8b617359-523e-42b3-8c60-dba31359117d" />
+
+
+This parameter allows users to dynamically switch between Sales, country, and segment across the dashboard
+
+**Purpose**
+
+To enable flexible KPI analysis without creating multiple visualizations.
+
+**Implementation**
+
+A calculated field was created using a IF statement:
+
+**IF  SUM([Sales]) < [Choose Threshold] THEN 'RED'
+ELSE 'GREEN'
+END**
+
+**Impact**
+
+- All charts update dynamically based on user selection
+  
+- Enhances interactivity and user experience
 
 
 
