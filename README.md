@@ -426,6 +426,41 @@ END**
   
 - Enhances interactivity and user experience
 
+**P2 Dashboard**
+
+
+
+<img width="834" height="584" alt="Screenshot 2026-04-17 153400" src="https://github.com/user-attachments/assets/9b099f7d-9417-4166-9f17-80c371ef32da" />
+
+
+This dashboard leverages Tableau parameters and reference lines to enable dynamic performance analysis. Users can adjust target values and instantly visualize how actual metrics compare, enhancing decision-making and interactivity.
+
+**Key Insights** 
+
+Enables interactive benchmarking
+
+Helps identify performance gaps
+
+Makes dashboards more decision-driven
+
+Useful for KPIs like:
+
+Sales targets
+
+Profit thresholds
+
+Employee performance benchmarks
+
+**Dashboard Impact**
+
+With this setup:
+
+Users can simulate different scenarios
+
+Decision-makers instantly see how performance changes relative to targets
+
+Improves storytelling in dashboards
+
 
 
 
