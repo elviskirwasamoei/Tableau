@@ -357,6 +357,29 @@ Clicked sort icon or used sort option
 Sorted by Producta  in alphabetical order
 
 
+**Sorting3**
+
+<img width="830" height="585" alt="Screenshot 2026-04-17 101044" src="https://github.com/user-attachments/assets/e122f700-6637-4e75-a75c-01fe82856556" />
+
+ Basic Sort (Descending)
+
+Use case: Ranking sales 
+
+Steps:
+
+Selected dimension ( Product Name)
+
+Clicked sort icon or used sort option
+
+Sorted by SUM(Sales) in descending order
+
+Insight:
+
+This revealed the top  revenue-generating products, helping prioritize high-performing inventory.
+
+
+
+
 
 
 
