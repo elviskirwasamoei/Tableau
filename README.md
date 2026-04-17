@@ -345,9 +345,8 @@ Risk if top performers leave
 
 The goal of sorting was to rank products and state by performance i terms of sales, making it easier to identify top and underperforming products.
 
-**Basic Sort (Ascending Order)**
+**Basic Sort (Alphabetical Order)**
 
-Use case: Ranking sales 
 
 Steps:
 
@@ -355,11 +354,8 @@ Selected dimension ( Product Name)
 
 Clicked sort icon or used sort option
 
-Sorted by SUM(Sales) in ascending order
+Sorted by Producta  in alphabetical order
 
-Insight:
-
-This revealed the top  revenue-generating products, helping prioritize high-performing inventory.
 
 
 
