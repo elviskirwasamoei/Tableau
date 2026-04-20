@@ -1,3 +1,9 @@
+Book1-dashboard/
+
+│ ├── data/
+│   └── Adidas.xlsx,Country.xlsx,dataset1+dataset2(capstone_project),Employee Sample Data,Furfural.xlsx,Nike 2021 Report.xlsx │ ├── dashboard/ 
+│   └── Book1.twbx │ ├── images/ │   └── dashboard_preview.png │ └── README.md
+
 **1 Cluster1 Dashboard Analysis**
 
 <img width="830" height="580" alt="Clusters1" src="https://github.com/user-attachments/assets/f0e3172c-2bd3-4b37-9f70-c2ccce08de5e" />
