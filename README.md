@@ -1,7 +1,7 @@
 Book1-dashboard/
 
-│ ├── data/
-│   └── Adidas.xlsx,Country.xlsx,dataset1+dataset2(capstone_project),Employee Sample Data,Furfural.xlsx,Nike 2021 Report.xlsx │ ├── dashboard/ 
+│ ├── data/ eg
+│   └── Adidas.xlsx,Country.xlsx,Employee Sample Data,Nike 2021 Report.xlsx │ ├── dashboard/ 
 │   └── Book1.twbx │ ├── images/ │   └── dashboard_preview.png │ └── README.md
 
 **1 Cluster1 Dashboard Analysis**
