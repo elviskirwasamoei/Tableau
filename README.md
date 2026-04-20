@@ -1,8 +1,4 @@
-Book1-dashboard/
 
-│ ├── data/ eg
-│   └── Adidas.xlsx,Country.xlsx,Employee Sample Data,Nike 2021 Report.xlsx │ ├── dashboard/ 
-│   └── Book1.twbx │ ├── images/ │   └── dashboard_preview.png │ └── README.md
 
 **1 Cluster1 Dashboard Analysis**
 
